@@ -1,5 +1,6 @@
 ### Hi there :)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bridgetf7)](https://git.io/streak-stats)
 <!--
 **bridgetf7/bridgetf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
